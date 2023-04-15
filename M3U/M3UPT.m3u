@@ -2412,6 +2412,32 @@ https://uk2.streamingpulse.com/ssl/vcr1
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://cdn-profiles.tunein.com/s95144/images/logod.png",Venice Classic Radio - Live
 https://uk2.streamingpulse.com/ssl/vcr2
 
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg", Radio Vaticana - English
+https://radio.vaticannews.va/stream-en
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg", Radio Vaticana - Français
+https://radio.vaticannews.va/stream-fr
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg", Radio Vaticana - Español
+https://radio.vaticannews.va/stream-es
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg", Radio Vaticana - Português
+https://radio.vaticannews.va/stream-pt
+
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Radio Vaticana - Беларуская
+https://radio.vaticannews.va/stream-be
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Radio Vaticana - Hrvatski
+https://radio.vaticannews.va/stream-hr
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Radio Vaticana - Lietuvių
+https://radio.vaticannews.va/stream-lt
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Radio Vaticana - Shqip
+https://radio.vaticannews.va/stream-sq
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Welcome to Streema!
+https://radio.vaticannews.va/stream-zh
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Radio Vaticana - አማርኛ
+https://radio.vaticannews.va/stream-am
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Radio Vaticana - ትግርኛ
+https://radio.vaticannews.va/stream-ti
+#EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="https://fonts.gstatic.com/s/i/productlogos/lens_camera/v1/192px.svg",Radio InBlu
+https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8
+
 # Praias Norte
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Praia de Âncora

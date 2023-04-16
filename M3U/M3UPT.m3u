@@ -21,6 +21,38 @@ https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AW
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
+
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png" group-title="BUSINESS NEWS",Bloomberg TV Mongolia
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" group-title="BUSINESS NEWS",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
+https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
+https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D 2
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQwXlDO.png" group-title="TURKISH ENTERTAINMENT",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:0 tvg-id="BloombergTelevision.us" tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg Television
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
+https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+
 #EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png" group-title="BUSINESS NEWS",Bloomberg TV Mongolia
 https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 

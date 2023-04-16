@@ -84,6 +84,9 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TZUqAbI.png" group-title="TURKISH ENTERTAINMENT",TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NEWS WORLD",CABLENEWS - COLOMBIA
+https://epg.pw/stream/db8316327bc2fad7ce31ad5d3e0d78920b94450513fb0da82e3b03f4df7b5ec8.m3u8
+
 #EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="ARABIC NEWS",DW Arabic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls

@@ -99,16 +99,11 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="RUSSIAN NEWS",CGTN-Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="AMERICAN NEWS",HLN
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/SKRL1MQ.png" group-title="PARLIAMENTARY",LCP
 http://callofliberty.fr/stream/LCP/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="AMERICAN NEWS",LiveNow Fox
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nEHL1S1.png" group-title="PARLIAMENTARY",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
@@ -158,8 +153,7 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="B1.ro" tvg-logo="https://i.imgur.com/h1qtVjc.png" group-title="ROMANIAN NEWS",B1
 http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1920px-News_24_%28Albania%29.svg.png" group-title="ALBANIAN NEWS",News 24
-https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png" group-title="ARABIC NEWS",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Aajtak.in" tvg-logo="https://i.imgur.com/o3rBa0e.png" group-title="HINDI NEWS",Aaj Tak

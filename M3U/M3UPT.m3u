@@ -198,6 +198,16 @@ http://190.61.102.67:31589/play/a00g/index.m3u8
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 
 
+http://89.34.226.181:21190/amars/ukitv1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0MjowNCBBTSZoYXNoX3ZhbHVlPXpNS3BqdGRtVm42LzdlSG9xUEV4clE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://89.34.226.181:21190/amars/ukitv2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0MzoxMCBBTSZoYXNoX3ZhbHVlPUd5Q2xPMk5hVVNjd0s1VmJoRjdCZFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://89.34.226.181:21190/amars/ukitv3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0MzoxMCBBTSZoYXNoX3ZhbHVlPUd5Q2xPMk5hVVNjd0s1VmJoRjdCZFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://89.34.226.181:21190/amars/ukitv4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0MzoxMCBBTSZoYXNoX3ZhbHVlPUd5Q2xPMk5hVVNjd0s1VmJoRjdCZFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://89.34.226.181:21190/amars/ukbbcone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0NDo1NSBBTSZoYXNoX3ZhbHVlPTkzK3dzdzhjb3JCSXV3OC9xTVNMTFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://89.34.226.181:21190/amars/ukbbctwo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0NDo1NSBBTSZoYXNoX3ZhbHVlPTkzK3dzdzhjb3JCSXV3OC9xTVNMTFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://89.34.226.181:21190/amars/ukbbcthree/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0NDo1NSBBTSZoYXNoX3ZhbHVlPTkzK3dzdzhjb3JCSXV3OC9xTVNMTFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://89.34.226.181:21190/amars/ukbbcfour/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0NDo1NSBBTSZoYXNoX3ZhbHVlPTkzK3dzdzhjb3JCSXV3OC9xTVNMTFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://45.155.226.111:21190/amars/ukchannel4hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0NjoyNiBBTSZoYXNoX3ZhbHVlPVIrR0JPNkYxNm13ckU3M3BWbnhyVVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://45.155.226.111:21190/amars/ukchannel5hd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC80LzIwMjUgNTo0Nzo0OCBBTSZoYXNoX3ZhbHVlPTBVQy9uWm5xbE0zRGhFMC9pT1M0MFE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1 group-title="PORTUGAL" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
